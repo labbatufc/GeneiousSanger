@@ -6,7 +6,7 @@ Tutorial to handle Sanger tracks on Geneious (Sequencing)
 
 1. consider the scheme `numberofsample_F.ab1` for Forward or `numberofsample_R.ab1` for Reverse
   - (optional) you can use in terminal: `bash filtering.sh` (macos)
-    - download the script (filtering.sh) to the .ab1 track directory and press enter
+    - download the script (filtering.sh) to the .ab1 track directory and press enter (right-click in script and choose "download raw file").
     - check the files inside `Clean` directory
 
 ## Download the geneious prime
