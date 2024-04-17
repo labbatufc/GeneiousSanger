@@ -23,6 +23,7 @@ Tutorial to handle Sanger tracks on Geneious (Sequencing)
 
 - Make a new folder called `QC`, or whatever name you want
 - Choose the tracks to cut the ends and click in `Annotate & Predict` menu, then in `Trim Ends...`
+  - Max number of filtering tracks is ~200
 - Click in `View` menu and `Table columns`, then tick out `At least Q30` and `At least Q40`
 - Choose `Remove new trimmed regions from sequences` and change the `At least` option for 150 bp for both 5' and 3'
 - Click in `File` and `Save`
