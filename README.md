@@ -52,6 +52,7 @@ Tutorial to handle Sanger tracks on Geneious (Sequencing)
 - Choose all tracks and right click in `sort`, sort it by `Name`
 - Check the aligned tracks and tick out the `Highlight` option
 - Zoom in the position of the small black points to check the nucleotide mutation and position
+  -  The small black points will change for blue or whatever color if you zoom in
 - Register the position as:
   > e.g. NG_008929.1:g.`[position][base changed]``
   > Like NG_008929.1:g.8401G>T
