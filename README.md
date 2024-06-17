@@ -49,6 +49,7 @@ Tutorial to handle Sanger tracks on Geneious (Sequencing)
 ### Check the aligned and mapped tracks
 
 - Go to the new subfolder and click twice in `Contig`
+- Choose all tracks and right click in `sort`, sort it by `Name`
 - Check the aligned tracks and tick out the `Highlight` option
 - Zoom in the position of the small black points to check the nucleotide mutation and position
 - Register the position as:
