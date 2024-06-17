@@ -38,6 +38,7 @@ Tutorial to handle Sanger tracks on Geneious (Sequencing)
 
 ### Align and map to reference
 
+- Click in `Tools` and choose `Plugins`, install `Bowtie`
 - Tick out the tracks you want to analyse inside the `QC` folder with trimmed tracks
 - Click in `Tools` menu and `Align/Assemble` then `Map to Reference(s)...`
 - Click the `Choose` button to find the downloaded reference at `Contig Assembly` paste (e.g. `NG_008929.1`)
